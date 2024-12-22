@@ -1,0 +1,36 @@
+14:33:09.567 Installing node-v16.18.0-linux-x64...
+14:33:09.799 Installed node-v16.18.0-linux-x64 to /opt/buildhome/.asdf/installs/nodejs/16.18.0
+14:33:09.800
+14:33:11.179 Preparing yarn@3.6.3 for immediate activation...
+14:33:11.646 Installing project dependencies: yarn
+14:33:12.251 ➤ YN0070: Migrating from Yarn 1; automatically enabling the compatibility node-modules linker 👍
+14:33:12.251
+14:33:12.387 ➤ YN0000: ┌ Resolution step
+14:33:14.573 ➤ YN0061: │ glob@npm:7.2.3 is deprecated: Glob versions prior to v9 are no longer supported
+14:33:16.258 ➤ YN0061: │ inflight@npm:1.0.6 is deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+14:33:16.285 ➤ YN0032: │ fsevents@npm:2.3.3: Implicit dependencies on node-gyp are discouraged
+14:33:18.923 ➤ YN0061: │ rimraf@npm:3.0.2 is deprecated: Rimraf versions prior to v4 are no longer supported
+14:33:33.446 ➤ YN0002: │ @commitlint/load@npm:19.2.0 doesn't provide @types/node (pa579d), requested by cosmiconfig-typescript-loader
+14:33:33.446 ➤ YN0002: │ @commitlint/load@npm:19.2.0 doesn't provide typescript (pa6f2c), requested by cosmiconfig-typescript-loader
+14:33:33.446 ➤ YN0002: │ indie-hackers-site@workspace:. doesn't provide @sanity/icons (p99a06), requested by next-sanity
+14:33:33.447 ➤ YN0002: │ indie-hackers-site@workspace:. doesn't provide @sanity/types (pdc744), requested by next-sanity
+14:33:33.447 ➤ YN0002: │ indie-hackers-site@workspace:. doesn't provide @sanity/ui (p76f2a), requested by next-sanity
+14:33:33.447 ➤ YN0060: │ indie-hackers-site@workspace:. provides react (p485a5) with version 18.3.1, which doesn't satisfy what @supabase/ui requests
+14:33:33.447 ➤ YN0060: │ indie-hackers-site@workspace:. provides react-dom (pc9df4) with version 18.3.1, which doesn't satisfy what @supabase/ui requests
+14:33:33.447 ➤ YN0002: │ indie-hackers-site@workspace:. doesn't provide sanity (pbc190), requested by next-sanity
+14:33:33.447 ➤ YN0002: │ indie-hackers-site@workspace:. doesn't provide styled-components (p1f8a4), requested by next-sanity
+14:33:33.447 ➤ YN0002: │ react-email@npm:2.1.2 doesn't provide eslint (pddb78), requested by eslint-config-prettier
+14:33:33.448 ➤ YN0002: │ react-email@npm:2.1.2 doesn't provide eslint (p2d2cf), requested by eslint-config-turbo
+14:33:33.448 ➤ YN0000: │ Some peer dependencies are incorrectly met; run yarn explain peer-requirements <hash> for details, where <hash> is the six-letter p-prefixed code
+14:33:33.453 ➤ YN0000: └ Completed in 21s 66ms
+14:33:33.530 ➤ YN0000: ┌ Post-resolution validation
+14:33:33.530 ➤ YN0028: │ The lockfile would have been modified by this install, which is explicitly forbidden.
+14:33:33.530 ➤ YN0000: └ Completed
+14:33:33.530 ➤ YN0000: Failed with errors in 21s 148ms
+14:33:33.634 Error: Exit with error code: 1
+14:33:33.635 at ChildProcess.<anonymous> (/snapshot/dist/run-build.js)
+14:33:33.636 at Object.onceWrapper (node:events:652:26)
+14:33:33.636 at ChildProcess.emit (node:events:537:28)
+14:33:33.636 at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+14:33:33.643 Failed: build command exited with code: 1
+14:33:34.454 Failed: error occurred while running build command
