@@ -28,10 +28,6 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "javayhu.site",
-      },
-      {
-        protocol: "https",
         hostname: "cdn.sanity.io", // https://www.sanity.io/learn/course/day-one-with-sanity-studio/bringing-content-to-a-next-js-front-end
       },
       {

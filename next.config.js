@@ -7,15 +7,15 @@ const nextConfig = {
   // distDir: 'out',
   reactStrictMode: true,
   swcMinify: true,
-  async redirects() {
-    return [
-      {
-        source: '/:path*',
-        destination: 'https://indiehub.best',
-        permanent: true,
-      },
-    ];
-  },
+  // async redirects() {
+  //   return [
+  //     {
+  //       source: '/:path*',
+  //       destination: 'https://indiehub.best',
+  //       permanent: true,
+  //     },
+  //   ];
+  // },
   images: {
     // https://vercel.com/docs/image-optimization/managing-image-optimization-costs#minimizing-image-optimization-costs
     // vercel has limits on image optimization, 1000 images per month
@@ -36,10 +36,6 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "randomuser.me",
-      },
-      {
-        protocol: "https",
-        hostname: "javayhu.site",
       },
       {
         protocol: "https",

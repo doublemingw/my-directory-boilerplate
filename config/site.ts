@@ -4,18 +4,18 @@ import { SiteConfig } from "types";
 const site_url = env.NEXT_PUBLIC_APP_URL;
 
 export const enSiteConfig: SiteConfig = {
-  name: "INDIE HACKERS TOOLS",
-  title: "Indie Hackers Tools - Discover Top Products for Efficient Indie Hacking",
+  name: "INDIE HACKERS",
+  title: "Indie Hackers - Discover Top Products for Efficient Indie Hacking",
   description:
-    "Indie Hackers Tools - Explore the best products to help you ship next application faster and better",
+    "Indie Hackers - Explore the best products to help you ship next application faster and better",
   url: site_url,
-  ogImage: `${site_url}/og.png?v=13`,
+  ogImage: `${site_url}/opengraph.png`,
   links: {
-    twitter: "https://x.com/javayhutx",
+    twitter: "https://x.com/javay_hu",
     github: "https://github.com/javayhu",
     coffee: "https://buymeacoffee.com/javayhu",
   },
-  mailSupport: "javayhu@gmail.com",
+  mailSupport: "me@javayhu.com",
   creator: "javayhu",
   subtitle: "Indie Hackers Tools - Explore the best products to help you ship next application faster and better",
 };
@@ -26,13 +26,13 @@ const zhSiteConfig: SiteConfig = {
   description:
     "独立开发者导航站，发掘最优秀的工具，助力你快速发布下一个应用",
   url: site_url,
-  ogImage: `${site_url}/og.png?v=13`,
+  ogImage: `${site_url}/opengraph.png`,
   links: {
-    twitter: "https://x.com/javayhu",
+    twitter: "https://x.com/javay_hu",
     github: "https://github.com/javayhu",
     coffee: "https://buymeacoffee.com/javayhu",
   },
-  mailSupport: "javayhu@gmail.com",
+  mailSupport: "me@javayhu.com",
   creator: "javayhu",
   subtitle: "独立开发者导航站，发掘最优秀的工具，助力你快速发布下一个应用",
 };
