@@ -12,12 +12,12 @@ const enNavConfig: NavConfig = {
       href: "/apptype/new",
       path: "/apptype/",
     },
-    {
-      title: "Search",
-      href: "https://link.indiehackers.site/saas101",
-      path: "https://link.indiehackers.site/saas101",
-      external: true,
-    },
+    // {
+    //   title: "Search",
+    //   href: "https://link.indiehackers.site/saas101",
+    //   path: "https://link.indiehackers.site/saas101",
+    //   external: true,
+    // },
     // {
     //   title: "Guides",
     //   href: "/guides",

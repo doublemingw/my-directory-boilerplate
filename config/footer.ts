@@ -18,12 +18,12 @@ const enFooterConfig: SidebarNavItem[] = [
         ],
     },
     {
-        title: "Resources",
+        title: "Links",
         items: [
             // { title: "Sponsors", external: true, href: "https://buymeacoffee.com/javayhu" },
-            { title: "RoadMap", external: true, href: "https://indiehackers.canny.io/" },
-            { title: "Feedback", external: true, href: "https://indiehackers.canny.io/feedback" },
-            { title: "Changelog", external: true, href: "https://indiehackers.canny.io/changelog" },
+            { title: "Mkdirs", external: true, href: "https://mkdirs.com" },
+            { title: "IndieHub", external: true, href: "https://indiehub.best" },
+            { title: "Free OG Generator", external: true, href: "https://og.indiehub.best" },
         ],
     },
 ];

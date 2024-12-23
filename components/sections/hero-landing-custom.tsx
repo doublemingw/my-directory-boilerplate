@@ -20,7 +20,7 @@ export function HeroLanding({ lang }: HeroLandingProps) {
         {/* Want animations? Check here: https://github.com/mickasmt/next-saas-stripe-starter/blob/76eb9f2b70b29c7a734ff0e5b047796ed2dac28d/app/(marketing)/page.tsx */}
         {/* href="https://twitter.com/miickasmt/status/1719892161095745801" */}
         <Link
-          href="https://x.com/javayhu"
+          href="https://x.com/javay_hu"
           className={cn(
             buttonVariants({ variant: "outline", size: "sm", rounded: "full" }),
             "px-4 transition-all scale-100 hover:scale-105",

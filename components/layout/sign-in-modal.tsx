@@ -60,7 +60,7 @@ export const SignInModal = ({ lang }: { lang: string }) => {
             {authConfig.signinWithGitub}
           </Button>
 
-          <Button
+          {/* <Button
             variant="default"
             className="rounded-full"
             disabled={signInWithGoogleClicked || signInWithGithubClicked}
@@ -84,7 +84,7 @@ export const SignInModal = ({ lang }: { lang: string }) => {
               <Icons.google className="mr-2 size-4" />
             )}{" "}
             {authConfig.signinWithGoogle}
-          </Button>
+          </Button> */}
         </div>
       </div>
     </Modal>

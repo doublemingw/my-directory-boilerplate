@@ -33,7 +33,7 @@ export default function ProductGridCient({ lang, itemList }: ProductGridCientPro
             <div key={item._id}
               className="group cursor-pointer overflow-hidden rounded-lg border
                 transition-all hover:bg-accent md:scale-100 md:hover:scale-105">
-              <Link target="_blank" href={`/${lang}/product/${item.slug}`}>
+              <Link href={`/${lang}/product/${item.slug}`}>
                 <div className="item-bg-linear rounded-t-lg px-4 pt-4">
                   {/* website screenshot from magikimg is 1920x1080 */}
                   {/* 960x540 => 480x270 */}

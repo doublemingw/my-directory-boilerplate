@@ -34,7 +34,7 @@ export default function AppGridCient({ lang, itemList, category }: AppGridCientP
             }
             return logoImageUrl && (
               // href={`${item.link}`}
-              <Link key={item._id} href={`/${lang}/app/${item.name}`} target='_blank'>
+              <Link key={item._id} href={`/${lang}/app/${item.name}`}>
                 {/* transition-all hover:bg-accent md:scale-100 md:hover:scale-105 */}
                 <div
                   className="group cursor-pointer overflow-hidden 
