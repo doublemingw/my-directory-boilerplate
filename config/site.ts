@@ -9,7 +9,7 @@ export const enSiteConfig: SiteConfig = {
   description:
     "Indie Hackers - Explore the best products to help you ship next application faster and better",
   url: site_url,
-  ogImage: `${site_url}/opengraph.png`,
+  ogImage: `${site_url}/og.png`,
   links: {
     twitter: "https://x.com/javay_hu",
     github: "https://github.com/javayhu",
@@ -26,7 +26,7 @@ const zhSiteConfig: SiteConfig = {
   description:
     "独立开发者导航站，发掘最优秀的工具，助力你快速发布下一个应用",
   url: site_url,
-  ogImage: `${site_url}/opengraph.png`,
+  ogImage: `${site_url}/og.png`,
   links: {
     twitter: "https://x.com/javay_hu",
     github: "https://github.com/javayhu",

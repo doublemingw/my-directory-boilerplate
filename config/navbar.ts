@@ -33,6 +33,18 @@ const enNavConfig: NavConfig = {
     //   href: "/blog",
     //   path: "/blog",
     // },
+    {
+      title: "IndieHub",
+      href: "https://indiehub.best",
+      path: "https://indiehub.best",
+      external: true,
+    },
+    {
+      title: "Mkdirs",
+      href: "https://mkdirs.com",
+      path: "https://mkdirs.com",
+      external: true,
+    },
   ],
 }
 
@@ -69,6 +81,18 @@ const zhNavConfig: NavConfig = {
     //   href: "/blog",
     //   path: "/blog",
     // },
+    {
+      title: "IndieHub",
+      href: "https://indiehub.best",
+      path: "https://indiehub.best",
+      external: true,
+    },
+    {
+      title: "Mkdirs",
+      href: "https://mkdirs.com",
+      path: "https://mkdirs.com",
+      external: true,
+    },
   ],
 }
 
