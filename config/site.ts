@@ -12,10 +12,10 @@ export const enSiteConfig: SiteConfig = {
   ogImage: `${site_url}/og.png`,
   links: {
     twitter: "https://x.com/javay_hu",
-    github: "https://github.com/javayhu",
+    github: "https://github.com/javayhu/free-directory-boilerplate",
     coffee: "https://buymeacoffee.com/javayhu",
   },
-  mailSupport: "me@javayhu.com",
+  mailSupport: "support@mkdirs.com",
   creator: "javayhu",
   subtitle: "Indie Hackers Tools - Explore the best products to help you ship next application faster and better",
 };
@@ -29,10 +29,10 @@ const zhSiteConfig: SiteConfig = {
   ogImage: `${site_url}/og.png`,
   links: {
     twitter: "https://x.com/javay_hu",
-    github: "https://github.com/javayhu",
+    github: "https://github.com/javayhu/free-directory-boilerplate",
     coffee: "https://buymeacoffee.com/javayhu",
   },
-  mailSupport: "me@javayhu.com",
+  mailSupport: "support@mkdirs.com",
   creator: "javayhu",
   subtitle: "独立开发者导航站，发掘最优秀的工具，助力你快速发布下一个应用",
 };
