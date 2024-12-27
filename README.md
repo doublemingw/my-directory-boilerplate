@@ -3,11 +3,12 @@
   <h1 align="center" style="margin-top: 20px;">Open Source Directory Boilerplate</h1>
 </a>
 
-# Websites
+# Websites & Repositories
 
-Website (frontend, current repository): [https://free-directory-boilerplate.vercel.app](https://free-directory-boilerplate.vercel.app)
-
-Sanity Studio (backend): [https://free-directory-sanity.vercel.app/studio](https://free-directory-sanity.vercel.app/studio)
+| Component | Website | Repository |
+| --------- | ------- | ---------- |
+| Frontend | [free-directory-boilerplate.vercel.app](https://free-directory-boilerplate.vercel.app) | [free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate) |
+| Backend (Sanity) | [free-directory-sanity.vercel.app/studio](https://free-directory-sanity.vercel.app/studio) | [free-directory-sanity](https://github.com/javayhu/free-directory-sanity) |
 
 ## Features
 
