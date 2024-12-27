@@ -34,6 +34,8 @@ Sanity Studio (backend): [https://free-directory-sanity.vercel.app/studio](https
 - Database (PostgreSQL)
 - Tailwind CSS
 - Shadcn UI
+- Lucide Icons
+- Contentlayer
 - Sanity
 - Vercel
 
@@ -50,7 +52,28 @@ This project is created by [Javayhu](https://x.com/javay_hu), the founder of [Mk
 
 If you are interested in indie hacking, please follow me on X: [@javay_hu](https://x.com/javay_hu)
 
-## Notices
+### Compare with Mkdirs
+
+[Mkdirs](https://mkdirs.com) - The best directory boilerplate.
+
+| Feature | Free Directory Boilerplate | Mkdirs |
+| ------- | -------------------------- | ------ |
+| Repos | ✅ 2 | ✅ 1 |
+| Price | ✅ Free and Open Source | ✅ Paid |
+| Auth | ✅ GitHub or Google | ✅ GitHub or Google or Email |
+| Newsletter | ❎ Not supported | ✅ Supported |
+| Listings | ✅ Categories | ✅ Categories, Tags & Filters |
+| Payment | ❌ Not supported | ✅ Supported |
+| Search | ❌ Not supported | ✅ Supported |
+| Pagination | ❌ Not supported | ✅ Supported |
+| Submission | ✅ Built-in (Free) | ✅ Built-in (Free & Paid) |
+| Blog | ✅ Contentlayer | ✅ Sanity CMS |
+| Analytics | ✅ Umami & Google Analytics | ✅ OpenPanel & Google Analytics |
+| SEO | ✅ Sitemap & Open Graph | ✅ Sitemap & Open Graph |
+| Multi-language | ✅ English & Chinese | ✅ English |
+| Multi-theme | ✅ Light & Dark | ✅ Light & Dark |
+
+## Notice
 
 If you have any questions when using this project, please checkout the [docs of Mkidrs](https://docs.mkdirs.com) for more information, because they have almost the same tech stack.
 
