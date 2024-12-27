@@ -1,13 +1,32 @@
 <a href="https://free-directory-boilerplate.vercel.app">
-  <img alt="Free Directory Boilerplate" src="public/og.png">
+  <img alt="Free Directory Boilerplate" src="images/og.png">
   <h1 align="center" style="margin-top: 20px;">Open Source Directory Boilerplate</h1>
 </a>
 
-# Websites & Repositories
+<p align="center">
+  <a href="https://x.com/javay_hu">
+    <img src="https://img.shields.io/twitter/follow/miickasmt?style=flat&label=javay_hu&logo=twitter&color=0bf&logoColor=fff" alt="Javayhu Twitter follower count" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#introduction"><strong>Introduction</strong></a> ·
+  <a href="#features"><strong>Features</strong></a> ·
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#how-to-use"><strong>How to use</strong></a> ·
+  <a href="#author"><strong>Author</strong></a> ·
+  <a href="#compare-with-mkdirs"><strong>Compare with Mkdirs</strong></a> ·
+  <a href="#notice"><strong>Notice</strong></a> ·
+  <a href="#license"><strong>License</strong></a> ·
+  <a href="#credits"><strong>Credits</strong></a>
+</p>
+<br/>
+
+## Introduction
 
 | Component | Website | Repository |
 | --------- | ------- | ---------- |
-| Frontend | [free-directory-boilerplate.vercel.app](https://free-directory-boilerplate.vercel.app) | [free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate) |
+| **Frontend** | [free-directory-boilerplate.vercel.app](https://free-directory-boilerplate.vercel.app) | [free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate) |
 | Backend (Sanity) | [free-directory-sanity.vercel.app/studio](https://free-directory-sanity.vercel.app/studio) | [free-directory-sanity](https://github.com/javayhu/free-directory-sanity) |
 
 ## Features
@@ -47,11 +66,11 @@
 3. Configure the `.env` file
 4. Run `pnpm dev`
 
-## Mkdirs
+## Author
 
 This project is created by [Javayhu](https://x.com/javay_hu), the founder of [Mkdirs](https://mkdirs.com), which is the best directory boilerplate for anyone who wants to launch a profitable directory website in minutes.
 
-If you are interested in indie hacking, please follow me on X: [@javay_hu](https://x.com/javay_hu)
+If you are interested in indie hacking, please follow me on X: [@javay_hu](https://x.com/javay_hu) or BlueSky: [@javayhu.com](https://bsky.app/profile/javayhu.com)
 
 ### Compare with Mkdirs
 
@@ -81,3 +100,8 @@ If you have any questions when using this project, please checkout the [docs of 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+
+This project was inspired by [@miickasmt](https://twitter.com/miickasmt)'s [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter)
+ 
