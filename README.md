@@ -3,7 +3,7 @@
   <h1 align="center" style="margin-top: 20px;">Open Source Directory Boilerplate</h1>
 </a>
 
-# Website
+# Websites
 
 Website (frontend, current repository): [https://free-directory-boilerplate.vercel.app](https://free-directory-boilerplate.vercel.app)
 
@@ -48,7 +48,7 @@ Sanity Studio (backend): [https://free-directory-sanity.vercel.app/studio](https
 
 This project is created by [Javayhu](https://x.com/javay_hu), the founder of [Mkdirs](https://mkdirs.com), which is the best directory boilerplate for anyone who wants to launch a profitable directory website in minutes.
 
-If you are interested in indie hacking, please follow me on X: [https://x.com/javay_hu](https://x.com/javay_hu)
+If you are interested in indie hacking, please follow me on X: [@javay_hu](https://x.com/javay_hu)
 
 ## Notices
 
