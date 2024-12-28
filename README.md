@@ -1,5 +1,5 @@
 <a href="https://free-directory-boilerplate.vercel.app">
-  <img alt="Free Directory Boilerplate" src="iamges/og.png">
+  <img alt="Free Directory Boilerplate" src="images/og.png">
   <h1 align="center" style="margin-top: 20px;">Open Source Directory Boilerplate</h1>
 </a>
 
