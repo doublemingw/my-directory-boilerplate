@@ -81,11 +81,13 @@ If you are interested in indie hacking, please follow me on X: [@javay_hu](https
 | Repos | ✅ 2 | ✅ 1 |
 | Price | ✅ Free and Open Source | ✅ Paid |
 | Auth | ✅ GitHub or Google | ✅ GitHub or Google or Email |
-| Newsletter | ❎ Not supported | ✅ Supported |
 | Listings | ✅ Categories | ✅ Categories, Tags & Filters |
+| Database | ✅ Need PostgreSQL | ✅ NO NEED! JUST SANITY! |
+| Newsletter | ❌ Not supported | ✅ Supported |
 | Payment | ❌ Not supported | ✅ Supported |
 | Search | ❌ Not supported | ✅ Supported |
 | Pagination | ❌ Not supported | ✅ Supported |
+| Email Notification | ❌ Not supported | ✅ Supported |
 | Submission | ✅ Built-in (Free) | ✅ Built-in (Free & Paid) |
 | Blog | ✅ Contentlayer | ✅ Sanity CMS |
 | Analytics | ✅ Umami & Google Analytics | ✅ OpenPanel & Google Analytics |
