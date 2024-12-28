@@ -23,17 +23,14 @@ export function Analytics() {
             {/* <SpeedInsights /> */}
 
             {/* google analytics */}
-            <GoogleAnalytics />
+            {/* <GoogleAnalytics /> */}
 
             {/* clarity analytics */}
             {/* 20240603, I can confirm that this is working but it slows down the site */}
             {/* <MicrosoftAnalytics /> */}
 
             {/* umami analytics, CORS policy blocks */}
-            {/* <script defer src="https://cloud.umami.is/script.js" data-website-id="a8eb270e-f183-4500-8a43-a8ac5707c3ba"></script> */}
-
-            {/* umami analytics, self hosted on vercel */}
-            <script defer src="https://umami.indiehackers.site/script.js" data-website-id="83df2afd-33f2-4bc1-870e-e5660e3c7cf8"></script>
+            {/* <script defer src="https://cloud.umami.is/script.js" data-website-id=""></script> */}
         </>
     )
 }
