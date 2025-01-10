@@ -1,4 +1,4 @@
-<a href="https://free-directory-boilerplate.vercel.app">
+<a href="https://free.mkdirs.com">
   <img alt="Free Directory Boilerplate" src="images/og.png">
   <h1 align="center" style="margin-top: 20px;">Open Source Directory Boilerplate</h1>
 </a>
